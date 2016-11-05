@@ -12,6 +12,7 @@ Transmitted are:
 - Altitude
 - Speed
 - Variometry
-- Number of Satelites (as T2)
+- Number of Satellites (as T2)
 - Battery Voltage
 - Heading
+- Latitude / Longitude
